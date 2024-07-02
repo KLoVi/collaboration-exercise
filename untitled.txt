@@ -2,5 +2,8 @@
 
 - [Karoll López]
 - [Gabriela]
+
+- [gabi]: working on feature x
+
 ## Tasks
 - [Viviana]: Working on task Y
